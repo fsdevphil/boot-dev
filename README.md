@@ -1,3 +1,3 @@
 # Boot.dev
 
-My Boot.dev coursework.
+My Boot.dev exercise solutions
