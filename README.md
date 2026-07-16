@@ -1,3 +1,3 @@
 # Boot.dev ⚔️
 
-My Boot.dev exercise solutions
+My [Boot.dev](https://www.boot.dev/) work
