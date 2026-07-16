@@ -3,5 +3,6 @@ def area_of_circle(r):
     result = pi * r * r
     return result
 
-area = area_of_circle(5)
+radius = 5
+area = area_of_circle(radius)
 print(area)
