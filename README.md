@@ -1,6 +1,6 @@
 # boot.dev
 
-- i'm learning programming and computer science with [boot.dev](https://www.boot.dev/) ⚔️ 
+- i'm learning the fundamentals of programming and computer science with [boot.dev](https://www.boot.dev/) ⚔️ 
 
 - boot.dev is a self-paced, online learning platform 🏫
 
