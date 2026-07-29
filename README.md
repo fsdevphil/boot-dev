@@ -4,7 +4,7 @@
 
 - boot.dev is a self-paced, online learning platform 🏫
 
-- i'm following the [backend developer path](https://www.boot.dev/paths/backend?tech=python-golang) 🛤
+- i'm following their [backend developer path](https://www.boot.dev/paths/backend?tech=python-golang) 🛤
 
 - it'll take me about 12 months to complete the path 🗓
 
