@@ -10,4 +10,4 @@
 
 - at that point i will have gone from beginner 🐣 to job-ready 💪
 
-- today, i'm learning to code in python 🐍
+- today i'm learning to code in python 🐍
