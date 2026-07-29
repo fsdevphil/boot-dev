@@ -2,7 +2,7 @@
 
 - i'm learning programming and computer science with [boot.dev](https://www.boot.dev/) ⚔️ 
 
-- boot.dev is a self-paced, online learning platform 🎓  
+- boot.dev is a self-paced, online learning platform 🏫
 
 - i'm following the backend developer path 🛤
 
