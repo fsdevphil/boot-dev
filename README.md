@@ -8,4 +8,4 @@
 
 - it'll take me about 12 months to complete the path 📅
 
-- at that point i will have gone from beginner 👶 to job-ready 💪
+- at that point i will have gone from beginner 🐣 to job-ready 💪
