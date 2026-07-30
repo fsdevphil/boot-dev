@@ -6,7 +6,7 @@
 
 - i'm following the Golang version of their [backend developer path](https://www.boot.dev/paths/backend?tech=python-golang) 🛤
 
-- it'll take me at least 12 months to complete the path 🗓
+- it'll take me at least 12 months to complete this path 🗓
 
 - at that point i will have gone from beginner 🐣 to job-ready 💪
 
