@@ -1,33 +1,34 @@
 ### python 🐍
 
 - [ ] print( )
-- [ ] f-strings
 - [ ] comments
+    | # | """ |
+    |---|-----|
 - [ ] variables
-  - [ ] assignment
 - [ ] data types
-  - [ ] type( )
-  - [ ] strings
-    - [ ] concatenation
-  - [ ] integers
-  - [ ] floats
-  - [ ] booleans
-  - [ ] none
+    | str | int | float | bool | none |
+    |-----|-----|-------|------|------|
+- [ ] type( )
+- [ ] strings
+    | concatenation | f-strings |
+    |---------------|-----------|
+- [ ] type conversion
+    | str( ) | int( ) |
+    |--------|--------|
 - [ ] math
-    | + | - | * | / | // | ** | % |
-    |---|---|---|---|----|----|---|
+    | + | - | * | / | // | ** | % | ( | ) |
+    |---|---|---|---|----|----|---|---|---|
 - [ ] functions
 - [ ] scope
 - [ ] comparisons
     | < | > | <= | >= | == | != |
     |---|---|----|----|----|----|
 - [ ] logic
-  - [ ] and
-  - [ ] or
-  - [ ] not
+    | and | or | not |
+    |-----|----|-----|
 - [ ] conditionals
-  - [ ] if
-  - [ ] elif
-  - [ ] else 
+    | if | elif | else |
+    |----|------|------|
 - [ ] loops
-  - [ ] for
+    | for |
+    |-----|
