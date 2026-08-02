@@ -19,20 +19,32 @@
 - [ ] math
     | + | - | * | / | // | ** | % | ( | ) |
     |---|---|---|---|----|----|---|---|---|
+- [ ] in-place operators
+    | += | -= | *= | /= |
+    |----|----|----|----|
+- [ ] math notation
+    | e | e- | _ | 0b |
+    |---|----|---|----|
 - [ ] round( )
 - [ ] functions
-    | def | return |
-    |-----|--------|
+    | def | return | pass |
+    |-----|--------|------|
 - [ ] scope
+- [ ] testing
+- [ ] debugging
 - [ ] comparisons
     | < | > | <= | >= | == | != |
     |---|---|----|----|----|----|
 - [ ] logic
     | and | or | not |
     |-----|----|-----|
+- [ ] bitwise operators
+    | & | \| |
+    |---|---|
 - [ ] conditionals
     | if | elif | else |
     |----|------|------|
 - [ ] loops
-    | for |
-    |-----|
+    | for | while | continue | break |
+    |-----|-------|----------|-------|
+- [ ] range( )
