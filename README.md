@@ -1,6 +1,6 @@
 # boot.dev
 
-<p align="center">
+<p align="left">
   <img src="https://api.boot.dev/v1/users/public/1bd81f8a-47d6-4abe-9028-2a8ba534af4d/thumbnail" >
 </p>
 
