@@ -1,5 +1,9 @@
 # boot.dev
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/1bd81f8a-47d6-4abe-9028-2a8ba534af4d/thumbnail" >
+</p>
+
 - i'm learning the fundamentals of programming and computer science with [boot.dev](https://www.boot.dev/) ⚔️ 
 
 - boot.dev is a self-paced, online learning platform 🏫
