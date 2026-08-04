@@ -1,47 +1,47 @@
 ### python 🐍
 
-- [ ] print( )
-- [ ] comments
+- [ ] print( ) 😎
+- [ ] comments 😎
     | # | """ |
     |---|-----|
-- [ ] variables
-- [ ] data types
+- [ ] variables 😎
+- [ ] data types 😎
     | str | int | float | bool | none |
     |-----|-----|-------|------|------|
 - [ ] type( ) 🤔
-- [ ] is
-- [ ] strings
+- [ ] is 🤔
+- [ ] strings 😎
     | concatenation | f-strings |
     |---------------|-----------|
 - [ ] type conversion 🤔
     | str( ) | int( ) |
     |--------|--------|
-- [ ] math
+- [ ] math 😎
     | + | - | * | / | // | ** | % | ( | ) |
     |---|---|---|---|----|----|---|---|---|
-- [ ] in-place operators
+- [ ] in-place operators 😎
     | += | -= | *= | /= |
     |----|----|----|----|
 - [ ] math notation 🤔
     | e | e- | _ | 0b |
     |---|----|---|----|
 - [ ] round( ) 🤔
-- [ ] functions
+- [ ] functions 😎
     | def | return | pass |
     |-----|--------|------|
-- [ ] scope
+- [ ] scope 😎
 - [ ] testing
 - [ ] debugging
-- [ ] comparisons
+- [ ] comparisons 😎
     | < | > | <= | >= | == | != |
     |---|---|----|----|----|----|
-- [ ] logic
+- [ ] logic 😎
     | and | or | not |
     |-----|----|-----|
 - [ ] bitwise operators 🤯
     | & | \| |
     |---|---|
-- [ ] conditionals
+- [ ] conditionals 😎
     | if | elif | else |
     |----|------|------|
 - [ ] loops 🤔
