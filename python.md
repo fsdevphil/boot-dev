@@ -8,12 +8,12 @@
 - [ ] data types
     | str | int | float | bool | none |
     |-----|-----|-------|------|------|
-- [ ] type( )
+- [ ] type( ) 🤔
 - [ ] is
 - [ ] strings
     | concatenation | f-strings |
     |---------------|-----------|
-- [ ] type conversion
+- [ ] type conversion 🤔
     | str( ) | int( ) |
     |--------|--------|
 - [ ] math
@@ -22,10 +22,10 @@
 - [ ] in-place operators
     | += | -= | *= | /= |
     |----|----|----|----|
-- [ ] math notation
+- [ ] math notation 🤔
     | e | e- | _ | 0b |
     |---|----|---|----|
-- [ ] round( )
+- [ ] round( ) 🤔
 - [ ] functions
     | def | return | pass |
     |-----|--------|------|
@@ -38,13 +38,13 @@
 - [ ] logic
     | and | or | not |
     |-----|----|-----|
-- [ ] bitwise operators
+- [ ] bitwise operators 🤯
     | & | \| |
     |---|---|
 - [ ] conditionals
     | if | elif | else |
     |----|------|------|
-- [ ] loops
+- [ ] loops 🤔
     | for | while | continue | break |
     |-----|-------|----------|-------|
-- [ ] range( )
+- [ ] range( ) 🤔
