@@ -30,8 +30,8 @@
     | def | return | pass |
     |-----|--------|------|
 - [ ] scope 😎
-- [ ] testing
-- [ ] debugging
+- [ ] testing 🤔
+- [ ] debugging 🤔
 - [ ] comparisons 😎
     | < | > | <= | >= | == | != |
     |---|---|----|----|----|----|
