@@ -22,9 +22,9 @@
 - [ ] in-place operators 😎
     | += | -= | *= | /= |
     |----|----|----|----|
-- [ ] math notation 🤔
-    | e | e- | _ | 0b |
-    |---|----|---|----|
+- [ ] math notation / formatting 🤔
+    | e | e- | _ | 0b | :d | :f |
+    |---|----|---|----|----|----|
 - [ ] round( ) 🤔
 - [ ] functions 😎
     | def | return | pass |
