@@ -44,6 +44,7 @@
 - [ ] bitwise operators 🤯
     | & | \| | ^ | NAND | NOR | ~ |
     |---|---|---|------|-----|---|
+- [ ] bin( ) 🤔
 - [ ] conditionals 😎
     | if | elif | else |
     |----|------|------|
@@ -53,3 +54,4 @@
 - [ ] range( ) 🤔
 - [ ] lists 🆕
 - [ ] globals( ) 🆕
+- [ ] tuples 🆕
